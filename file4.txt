@@ -1,1 +1,2 @@
+newclass 4
 secondary

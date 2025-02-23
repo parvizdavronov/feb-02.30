@@ -1,1 +1,2 @@
+newclass 5
 secondary
